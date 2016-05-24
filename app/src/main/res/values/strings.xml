@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone">Phone</string>
+    <string name="prepare">Prepare</string>
+    <string name="call">Call</string>
+    <string name="insert_number">Insert number</string>
+    <string name="please_enter_number">Please enter number</string>
+</resources>
